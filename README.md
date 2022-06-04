@@ -3,7 +3,8 @@ Analise de dados de Unicornios Mundiais entre 2018 a 2021
 
 # Explicando as linhas de código do arquivo Analise.py 
 
-Começando pela linha 5 onde importo os dados do site.
+Começando pela linha 5 onde importo os dados do site.  
+
 linha 6 e 7: Configuro a visualização no terminal do python.
 Em seguida altero os nomes das colunas de ingles para portugues.
 Com a função info() consigo ver a tipagem do arquivo.
